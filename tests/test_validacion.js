@@ -1,0 +1,1 @@
+// Tests de validación: pendientes (se agregan en v1.1)
