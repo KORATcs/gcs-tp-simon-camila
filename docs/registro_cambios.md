@@ -14,7 +14,7 @@
 | ECS-09 | Exclusiones de Git | .gitignore | Configuración |
 
 ## Historial de versiones
-| Versión | Fecha | Ticket | Descripción | Responsable |
-|---|---|---|---|---|
+| Versión | Fecha | Ticket | Descripción | Responsable | 
+
 | v1.0 | (línea base) | - | Versión inicial | Camila Simon |
-| v1.1 | (en desarrollo) | #101 | Validación de teléfono | Camila Simon |
+| v1.1 | 03/11/2026 | #101 | Validación de teléfono | Camila Simon |
