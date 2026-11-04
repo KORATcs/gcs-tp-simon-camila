@@ -17,3 +17,4 @@
 | Versión | Fecha | Ticket | Descripción | Responsable |
 |---|---|---|---|---|
 | v1.0 | (línea base) | - | Versión inicial | Camila Simon |
+| v1.1 | (en desarrollo) | #101 | Validación de teléfono | Camila Simon |
